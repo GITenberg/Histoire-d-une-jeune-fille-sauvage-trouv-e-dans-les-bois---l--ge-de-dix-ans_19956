@@ -1,0 +1,32 @@
+_repo: Histoire-d-une-jeune-fille-sauvage-trouv-e-dans-les-bois---l--ge-de-dix-ans_19956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hecquet, Mme., active 1755
+    gutenberg_agent_id: '37522'
+    url: http://www.gutenberg.org/2009/agents/37522
+  - agent_name: La Condamine, Charles-Marie de
+    alias: Condamine, Charles-Marie de La
+    birthdate: 1701
+    deathdate: 1774
+    gutenberg_agent_id: '8987'
+    url: http://www.gutenberg.org/2009/agents/8987
+description: Quérard 4:52 identifies Mme. Hecquet and notes also attributed to C.-M.
+  de La Condamine.
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19956'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Wild men'
+title: Histoire d'une jeune fille sauvage trouvée dans les bois à l'âge de dix ans
+url: http://www.gutenberg.org/ebooks/19956
