@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8987
 description: Quérard 4:52 identifies Mme. Hecquet and notes also attributed to C.-M.
   de La Condamine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19956#Histoire-d-une-jeune-fille-sauvage-trouv-e-dans-les-bois---l--ge-de-dix-ans
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2006-11-28'
 gutenberg_type: Text
